@@ -9,6 +9,13 @@ body {
 	position: relative;
 }
 
-li {
+#header ul li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline;
 	list-style: none;
+	border: 1px solid #e7e7e7;
+	background: #f3f3f3;
 }
