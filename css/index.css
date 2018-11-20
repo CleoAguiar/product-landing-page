@@ -1,0 +1,14 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700';
+
+body {
+	font-family: 'Lato', sans-serif;
+	background: #EDEDED;
+}
+
+#page-wapper {
+	position: relative;
+}
+
+li {
+	list-style: none;
+}
