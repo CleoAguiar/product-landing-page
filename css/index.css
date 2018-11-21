@@ -72,6 +72,20 @@ a {
 	background: #e6e6e6;
 }
 
+#how-it-works {
+	display: flex;
+	justify-content: center;
+}
+
+#how-it-works iframe {
+	max-width: 560px;
+	height: 315px;
+	width: 100%;
+	padding: 20px;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
 #pricing {
 	background: #e6e6e6;
 }
