@@ -35,6 +35,20 @@ img {
 	}
 }
 
+@media only screen and (max-device-width: 768px) {
+   	body{
+   		background-color: pink;
+   	}
+   	header {
+   		font-size: 32px;
+   		padding-bottom: 20px;
+   	}
+
+   	img {
+   		margin: 20px;
+   	}
+}
+
 #nav-bar {
 	position: fixed;
 	top: 0;
