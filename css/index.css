@@ -212,6 +212,14 @@ footer a {
 		padding-top: 10%;
 	}
 
+	.icon {
+		margin-left: 40%;
+	}
+
+	.description {
+		margin-right: 60px;
+	}
+
 	#how-it-works iframe {
 		max-width: 90%;
 		height: 500px;
