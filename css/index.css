@@ -202,6 +202,12 @@ footer a {
 		margin: 20px;
 	}
 
+	input[type=email] {
+		padding: 27px;
+		width: 810px;
+		font-size: 36px;
+	}
+
 	#how-it-works iframe {
 		max-width: 90%;
 		height: 500px;
