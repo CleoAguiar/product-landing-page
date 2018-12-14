@@ -192,7 +192,7 @@ footer a {
 	}	
 }
 
-@media only screen and (max-device-width: 768px) { /*Mobile*/
+@media only screen and (max-device-width: 760px) { /*Mobile*/
 	header {
 		font-size: 32px;
 		padding-bottom: 20px;
