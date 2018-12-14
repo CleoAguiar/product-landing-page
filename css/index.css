@@ -71,7 +71,7 @@ a {
 }
 
 #email {
-	font-size: 18px;
+	/*font-size: 18px;*/
 	margin: 10px;
 	width: 300px;
 }
@@ -194,7 +194,7 @@ footer a {
 
 @media only screen and (max-device-width: 760px) { /*Mobile*/
 	header {
-		font-size: 32px;
+		font-size: 36px;
 		padding-bottom: 20px;
 	}
 
@@ -205,7 +205,7 @@ footer a {
 	input[type=email] {
 		padding: 27px;
 		width: 810px;
-		font-size: 36px;
+		font-size: 24px;
 	}
 
 	#features {
