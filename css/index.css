@@ -119,39 +119,6 @@ a {
 	margin-bottom: 5%;
 }
 
-@media only screen and (max-device-width: 768px) {
-	header {
-		font-size: 32px;
-		padding-bottom: 20px;
-	}
-
-	img {
-		margin: 20px;
-	}
-
-	#tenor, #bass, #valve {
-		font-size: 48px;
-	}
-
-	.btn {
-
-		height: 80px;
-		font-size: 36px;
-	}
-
-	footer ul {
-		font-size: 36px;
-	}
-
-}
-
-@media only screen and (min-device-width: 768px) {
-	#pricing {
-		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
-		grid-gap: 10px;
-	}	
-}
 
 #tenor, #bass, #valve {
 	border: 1px solid black;
@@ -217,3 +184,46 @@ footer a {
   padding: 8px 15px;
 }
 
+@media only screen and (min-device-width: 768px) {
+	#pricing {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-gap: 10px;
+	}	
+}
+
+@media only screen and (max-device-width: 768px) { /*Mobile*/
+	header {
+		font-size: 32px;
+		padding-bottom: 20px;
+	}
+
+	img {
+		margin: 20px;
+	}
+
+	#how-it-works iframe {
+		max-width: 90%;
+		height: 500px;
+	}
+
+	#tenor, #bass, #valve {
+		font-size: 48px;
+		margin: 40px 30px;
+	}
+
+	ol {
+		height: 450px;
+	}
+
+	.btn {
+
+		height: 80px;
+		font-size: 36px;
+	}
+
+	footer ul {
+		font-size: 36px;
+	}
+
+}
