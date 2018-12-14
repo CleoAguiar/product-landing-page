@@ -136,7 +136,11 @@ a {
 	.btn {
 
 		height: 80px;
-		font-size: 28px;
+		font-size: 36px;
+	}
+
+	footer ul {
+		font-size: 36px;
 	}
 
 }
@@ -177,7 +181,6 @@ ol {
 	text-align: center;
 	text-transform: uppercase;
 	padding: 10px;
-	font-size: 16px;
 	-webkit-transition-duration: 0.4s; /* Safari */
 	transition-duration: 0.4s;
 	cursor: pointer;
