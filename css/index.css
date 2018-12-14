@@ -208,9 +208,18 @@ footer a {
 		font-size: 36px;
 	}
 
+	#features {
+		padding-top: 10%;
+	}
+
 	#how-it-works iframe {
 		max-width: 90%;
 		height: 500px;
+		padding-top: 10%;
+	}
+
+	#pricing {
+		padding-top: 10%;
 	}
 
 	#tenor, #bass, #valve {
